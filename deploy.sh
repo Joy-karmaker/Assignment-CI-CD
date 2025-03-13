@@ -1,7 +1,7 @@
 #!/bin/bash
 
 APP_NAME="node-app"
-DEPLOY_DIR="/var/www/$APP_NAME"
+DEPLOY_DIR="C:/node-app"
 GITHUB_WORK_DIR="$HOME/_work/Assignment-CI-CD/Assignment-CI-CD"
 
 echo "Stopping existing application..."
