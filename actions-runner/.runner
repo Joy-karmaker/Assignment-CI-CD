@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 21,
+  "agentName": "DESKTOP-CL1N1T8",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelinesghubeus24.actions.githubusercontent.com/you6fpznq1Tu5Jow2v43nu9j1GHOeQpoEwbQHrUHXE7fYS7ssJ/",
+  "gitHubUrl": "https://github.com/Joy-karmaker/Assignment-CI-CD",
+  "workFolder": "_work"
+}
